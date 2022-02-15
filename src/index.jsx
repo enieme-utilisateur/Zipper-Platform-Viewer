@@ -12,7 +12,7 @@ ReactDOM.render(
     <Router>
       <Routes>
         <Route
-          path="/Home"
+          path="/"
           element={
             <>
               <Home />
