@@ -79,11 +79,10 @@ a {
 }
 
 .logoloadtext {
-  position: fixed;
   color: #dedee2;
   font-size: 2vh;
   margin-top: 10pt;
-  top: 50%;
+  top: 55%;
   left: 50%;
   font-family: helvetica;
   font-weight: 200;
