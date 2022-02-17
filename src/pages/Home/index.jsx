@@ -194,6 +194,13 @@ function Home() {
         />
       </div>
 
+      <div id="scann10">
+        <img
+          src="http://localhost:5000/public/svg/scan/scann-g.svg"
+          alt="anim-scan"
+        />
+      </div>
+
       <div className="bar"></div>
 
       <div className="contact">
