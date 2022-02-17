@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import '../../styles/Viewer.css'
 import React from 'react'
 import axios from 'axios'
 
