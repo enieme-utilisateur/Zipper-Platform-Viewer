@@ -6,6 +6,7 @@ import Gallery from './pages/Gallery'
 import Viewer from './pages/Viewer'
 import About from './pages/About'
 import Header from './component/Header'
+import Loader from './component/Loader'
 
 ReactDOM.render(
   <React.StrictMode>
@@ -16,6 +17,7 @@ ReactDOM.render(
           element={
             <>
               <Home />
+              <Loader />
             </>
           }
         />
@@ -25,6 +27,7 @@ ReactDOM.render(
             <>
               <Viewer />
               <Header />
+              <Loader />
             </>
           }
         />
@@ -34,6 +37,7 @@ ReactDOM.render(
             <>
               <Gallery />
               <Header />
+              <Loader />
             </>
           }
         />
@@ -43,6 +47,7 @@ ReactDOM.render(
             <>
               <About />
               <Header />
+              <Loader />
             </>
           }
         />
