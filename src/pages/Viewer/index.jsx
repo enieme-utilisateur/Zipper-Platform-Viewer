@@ -207,6 +207,7 @@ function Profile(propsneck) {
           transform: 'translate(-50%, -50%)',
           zIndex: '1',
           filter: 'drop-shadow(0 0 0.7rem black)',
+          cursor: 'grab',
         }}
       />
     </div>
